@@ -6,7 +6,7 @@ It is a REST-API for music mostly EDM made using Spring Data JPA & Hibernate in 
 Spring tool suite-4
 
 ## Steps to use:
-1. Clone and extrect the repository on your machine. 
+1. Clone and extract the repository on your machine. 
 2. Run as Spring Boot Application.
 
 ## Request (localhost:8080/musics)    ----> for all musics.
